@@ -1,4 +1,4 @@
-####### Estrutura do jogo:
+####### Estrutura da Forca: ##################
 def forca(x=0):
     if x == 0:
         print('------------')
@@ -63,7 +63,9 @@ def forca(x=0):
         print('|               ')
         print('|               ')
         print('|')
-## Importanto libraria para número aleatório:
+##########################################################
+
+####### Importanto libraria para número aleatório:
 from random import randint
 
 ########### Funções do jogo ###################
